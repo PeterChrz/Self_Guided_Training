@@ -3,9 +3,9 @@
 
 ### Merge Sort
 // Testing out sorting algorithms in different languages.
-Free Pascal.. MergeSort/merge.pp
-Python.. MergeSort/merge_sort.py
+- Free Pascal.. MergeSort/merge.pp
+- Python.. MergeSort/merge_sort.py
 
 ### ::Note::
-- FreePascal code is being compiled with version 3.2.2, `fpc <filename>`
+- FreePascal code is being compiled with version 3.2.2, `fpc <file>`
 - Python code is being compiled with version 3.13.3, `python3 <file>`
